@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l3RVqbDWsKRA1sSHtuUwu3JZLmX5F7fdUMGCbhLhWcE=",
+  "Source": "TaskManagerRESTAPI",
+  "BasePath": "_content/TaskManagerRESTAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

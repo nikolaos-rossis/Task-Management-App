@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hAemdH3V0nD4hVPtZJk76zLPWj69PYvlN7ny5KSHqQcdekCY455iZadgAASkbmQ9HpYHVjLx+ZlbwrIXF3eNfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nickr\\source\\repos\\TaskManagerApp\\TaskManagerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nickr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\nickr\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\nickr\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
